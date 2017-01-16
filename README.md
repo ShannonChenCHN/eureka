@@ -1,2 +1,3 @@
 # eureka
-Ideas into action.
+
+>See [Issues](https://github.com/ShannonChenCHN/eureka/issues)\(^o^)/
