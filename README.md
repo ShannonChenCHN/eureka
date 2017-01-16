@@ -1,3 +1,3 @@
 # eureka
 
->See [Issues](https://github.com/ShannonChenCHN/eureka/issues)\(^o^)/
+>See [Issues](https://github.com/ShannonChenCHN/eureka/issues)  \(^o^)/
