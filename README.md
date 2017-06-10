@@ -12,6 +12,7 @@
 
 
 ## 目录
+- [一日三省吾身](https://github.com/ShannonChenCHN/eureka/issues/31)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
   - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/tree/master/虽然我不是个吃货)
