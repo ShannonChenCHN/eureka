@@ -42,7 +42,7 @@
 
 
 ## 交流讨论
-如果你有一些想法，欢迎到 [Issues](https://github.com/ShannonChenCHN/eureka/issues) 上给我留言~。
+如果你有一些想法，欢迎到 [Issues](https://github.com/ShannonChenCHN/eureka/issues/new) 上给我留言~。
 
 - 邮箱：ShannonChenCHN@foxmail.com
 - 微博：[ShannonChenCHN](http://weibo.com/u/2034207895)
