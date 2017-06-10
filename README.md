@@ -1,11 +1,28 @@
-# eureka
 
-A place to write in a pure way, kind of like a blog, but more interesting than blog.
-
-> For detail, see :
-- [Issues](https://github.com/ShannonChenCHN/eureka/issues)  \\(^o^)/
-- [Journal](https://github.com/ShannonChenCHN/eureka/issues/31) \\(^o^)/
+# 老干部有话说
+一个互联网人的[碎碎念]((https://github.com/ShannonChenCHN/eureka/issues))，包括但不仅限于技术、学习、生活、美食、玩乐、旅行、人、故事、体育等等。
 
 
--------
+## 关于
+我是一个喜欢胡思乱想的人，平时也是个话痨，但是话太多，并不是件好事。
+
+如果都是有趣的话，倒还罢了，不过废话太多，也就很难变得有趣了，同时说出蠢话的概率也就大了。
+
+正如公开课[『如何成为一个更好的交谈者』](http://open.163.com/movie/2016/3/F/E/MBFLN6BJF_MBFLNJGFE.html)中所说的，很多时候，我们喜欢表达自己的观点，而忘记了**倾听**。其实，我们大多时候说出的话，没有经过思考和沉淀，仅仅是为了满足自己的表达欲望而已，而写作恰好能够很好地梳理我们的想法和思绪。同时，也释放了自己表达的欲望，让我们学会思考，学会倾听。
+
+## 你想问什么
+### 标题为什么叫做“老干部有话说”？
+嘿嘿，这个不能告诉你，你自己猜吧！😝
+
+### 为什么要写这个专栏？
+- 人生总得坚持点什么，从开始吧，养成一个习惯
+- 练习逻辑思维能力
+- 练习表达能力
+- 记录一下自己的真实感想和体验
+
+
+### 为什么不到简书、公众号或者其他平台上写？
+- 那些平台太过于正式，我仅仅只是想写点东西，当然，如果有比较成熟的文章，我也会同步到[简书](http://www.jianshu.com/u/4ef5e287fc91)上去
+- 因为用 GitHub 写 Markdown 写习惯了
+
 
