@@ -14,9 +14,9 @@
 ## 目录
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
-  - [虽然我不是个吃货]()
-  - [这些年，我看过的那些书]()
-  - [玩遍大上海]()
+  - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/tree/master/虽然我不是个吃货)
+  - [这些年，我看过的那些书](https://github.com/ShannonChenCHN/eureka/tree/master/这些年，我看过的那些书)
+  - [玩遍大上海](https://github.com/ShannonChenCHN/eureka/tree/master/玩遍大上海)
   - [我的那些朋友们]()
 - [大学生们，你为什么来实习？]()（TODO）
 - [不要再问我这个问题了：小伙砸，你有女朋友吗？]()（TODO）
