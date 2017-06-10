@@ -32,7 +32,7 @@
 - 人生总得坚持点什么，从写作开始吧，养成一个习惯
 - 练习逻辑思维能力
 - 练习表达能力
-- 记录一下自己的真实感想和人生体验（其实就是想说说话）
+- 记录一下自己的真实感想和人生体验（其实就是无聊，打发一下时间）
 
 
 #### 为什么不到简书、公众号或者其他平台上写？
@@ -41,7 +41,7 @@
 
 
 ## 交流讨论
-如果你有一些想法，欢迎到 [Issues]((https://github.com/ShannonChenCHN/eureka/issues) 上给我留言~。
+如果你有一些想法，欢迎到 [Issues](https://github.com/ShannonChenCHN/eureka/issues) 上给我留言~。
 
 - 邮箱：ShannonChenCHN@foxmail.com
 - 微博：[ShannonChenCHN](http://weibo.com/u/2034207895)
