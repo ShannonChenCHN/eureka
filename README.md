@@ -19,17 +19,37 @@
   - [这些年，我看过的那些书](https://github.com/ShannonChenCHN/eureka/tree/master/这些年，我看过的那些书)
   - [玩遍大上海](https://github.com/ShannonChenCHN/eureka/tree/master/玩遍大上海)
   - [我的那些朋友们]()
-- 技术相关
-  - [什么，iOS 开发没人要了！？]()（TODO）
-  - [iOS 开发学习笔记](https://github.com/ShannonChenCHN/iOSLevelingUp)
-  - [前端开发学习笔记](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)（包括 React Native 技术）
-  - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
+- 互联网
+  - 技术
+    - [什么，iOS 开发没人要了！？]()（TODO）
+    - [iOS 开发学习笔记](https://github.com/ShannonChenCHN/iOSLevelingUp)
+    - [前端开发学习笔记](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)（包括 React Native 技术）
+    - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
+  - 产品
+    - 什么是 PM？
+  - 设计
+    - UI、UX、UE、UED 之间的区别是什么？
+  - 运营
+    - 运营是干什么的？
 - 生活
   - [大学生们，你为什么来实习？]()（TODO）
   - [不要再问我这个问题了：小伙砸，你有女朋友吗？]()（TODO）
-- 阅读、写作
+  - 学会沟通：如何成为一个更好的谈话者?
+- 阅读
+  - 为什么读？
+  - 读什么？
+  - 怎么读？
+- 写作
+  - 我们为什么要写作？
+  - 写什么
+  - 怎么写
 - 英语
-
+  - 为什么学英语
+  - 怎么学好英语
+  - 怎么把英语用起来
+- 工作/职场
+  - 什么是好工作？
+  - 你怎么看待加班？
 
 
 
