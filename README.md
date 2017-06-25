@@ -51,7 +51,7 @@
   - 什么是好工作？
   - 你怎么看待加班？
 - 翻译
-
+  - [JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/blob/master/翻译/10-most-common-javascript-mistakes.md)（译）
 
 
 ## 你想问什么
