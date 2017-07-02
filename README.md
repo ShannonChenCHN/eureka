@@ -23,7 +23,7 @@
   - 技术
     - [iOS 开发之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
     - [前端开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
-    - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md）
+    - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md)
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
   - 产品
     - 什么是 PM？
@@ -51,7 +51,7 @@
   - 什么是好工作？
   - 你怎么看待加班？
 - 翻译
-  - [JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)（译）
+  - [[译\]JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)
 - [更多...](https://github.com/ShannonChenCHN/eureka/issues?page=2&q=is%3Aissue+is%3Aopen)
 
 
