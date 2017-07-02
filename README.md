@@ -51,7 +51,7 @@
   - 什么是好工作？
   - 你怎么看待加班？
 - 翻译
-  - [[译\]JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)
+  - [\[译\]JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)
 - [更多...](https://github.com/ShannonChenCHN/eureka/issues?page=2&q=is%3Aissue+is%3Aopen)
 
 
@@ -63,7 +63,7 @@
 - 人生总得坚持点什么，从写作开始吧，养成一个习惯
 - 练习逻辑思维能力
 - 练习表达能力
-- 记录一下自己的真实感想和人生体验（其实就是无聊，打发一下时间）
+- 分享、记录
 
 
 
