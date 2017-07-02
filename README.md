@@ -15,15 +15,15 @@
 - [一日三省吾身](https://github.com/ShannonChenCHN/eureka/issues/31)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
-  - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/tree/master/虽然我不是个吃货)
-  - [这些年，我看过的那些书](https://github.com/ShannonChenCHN/eureka/tree/master/这些年，我看过的那些书)
-  - [玩遍大上海](https://github.com/ShannonChenCHN/eureka/tree/master/玩遍大上海)
-  - [我的那些朋友们]()
+  - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/issues/58)
+  - [聊来读书这件事](https://github.com/ShannonChenCHN/eureka/issues/19)
+  - [上海这座城](https://github.com/ShannonChenCHN/eureka/issues/52)
+  - 我的那些朋友们
 - 互联网
   - 技术
-    - [什么，iOS 开发没人要了！？]()（TODO）
-    - [iOS 开发学习笔记](https://github.com/ShannonChenCHN/iOSLevelingUp)
-    - [前端开发学习笔记](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)（包括 React Native 技术）
+    - [iOS 开发之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
+    - [前端开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
+    - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md）
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
   - 产品
     - 什么是 PM？
@@ -32,8 +32,8 @@
   - 运营
     - 运营是干什么的？
 - 生活
-  - [大学生们，你为什么来实习？]()（TODO）
-  - [不要再问我这个问题了：小伙砸，你有女朋友吗？]()（TODO）
+  - 聊聊实习这件事儿
+  - “小伙砸，你有女朋友吗？”
   - 学会沟通：如何成为一个更好的谈话者?
 - 阅读
   - 为什么读？
@@ -43,7 +43,7 @@
   - 我们为什么要写作？
   - 写什么
   - 怎么写
-- 英语
+- [英语](https://github.com/ShannonChenCHN/eureka/issues/14)
   - 为什么学英语
   - 怎么学好英语
   - 怎么把英语用起来
@@ -51,7 +51,8 @@
   - 什么是好工作？
   - 你怎么看待加班？
 - 翻译
-  - [JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/blob/master/翻译/10-most-common-javascript-mistakes.md)（译）
+  - [JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)（译）
+- [更多...](https://github.com/ShannonChenCHN/eureka/issues?page=2&q=is%3Aissue+is%3Aopen)
 
 
 ## 你想问什么
@@ -64,10 +65,6 @@
 - 练习表达能力
 - 记录一下自己的真实感想和人生体验（其实就是无聊，打发一下时间）
 
-
-#### 为什么不到简书、公众号或者其他平台上写？
-- 那些平台太过于正式，我仅仅只是想写点东西，当然，如果有比较成熟的文章，我也会同步到[简书](http://www.jianshu.com/u/4ef5e287fc91)上去
-- 作为码农，不对，作为软件工程师，用 GitHub 写 Markdown 写习惯了嘛
 
 
 ## 交流讨论
