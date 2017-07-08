@@ -85,7 +85,3 @@
 - 邮箱：ShannonChenCHN@foxmail.com
 - 微博：[ShannonChenCHN](http://weibo.com/u/2034207895)
 - Twitter: [ShannonChenCHN](https://twitter.com/ShannonChenCHN)
-- 微信公众号：老干部专栏
-
-![老干部专栏](./src/qrcode_for_gh_cc686217be41_430.jpg)
-
