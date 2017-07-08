@@ -85,3 +85,4 @@
 - 邮箱：ShannonChenCHN@foxmail.com
 - 微博：[ShannonChenCHN](http://weibo.com/u/2034207895)
 - Twitter: [ShannonChenCHN](https://twitter.com/ShannonChenCHN)
+- 简书：[祥龙Shannon](http://www.jianshu.com/u/4ef5e287fc91)
