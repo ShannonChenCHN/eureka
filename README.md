@@ -60,9 +60,7 @@
 - [更多...](https://github.com/ShannonChenCHN/eureka/issues?page=2&q=is%3Aissue+is%3Aopen)
 
 
-## 你想问什么
-#### 标题为什么叫做“老干部有话说”？
-嘿嘿，这个不能告诉你，你自己猜吧！😝
+## Q&A
 
 #### 为什么要写这个专栏？
 - 坚持，养成一个习惯
