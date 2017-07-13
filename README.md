@@ -29,6 +29,7 @@
     - [前端开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
     - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md)
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
+    - [Git 相关技术](https://github.com/ShannonChenCHN/eureka/issues/4)
   - 产品
     - 什么是 PM？
   - 设计
