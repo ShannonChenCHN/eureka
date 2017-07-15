@@ -34,6 +34,8 @@
     - [Git 相关技术](https://github.com/ShannonChenCHN/eureka/issues/4)
     - [招聘 iOS 开发技术人员时，如何筛选简历和一面？](https://github.com/ShannonChenCHN/eureka/issues/59)
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
+    - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
+    - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
   - 产品
     - PM 是干什么的？
   - 设计
@@ -42,7 +44,7 @@
     - 运营是干什么的？
 - 生活
   - 聊聊实习这件事儿
-  - “小伙砸，你有女朋友吗？”
+  - [社会主义核心恋爱观](https://github.com/ShannonChenCHN/eureka/issues/6)
   - 学会沟通：如何成为一个更好的谈话者?
   - [2017 上半年总结](https://github.com/ShannonChenCHN/eureka/issues/56)
 - 阅读
@@ -67,11 +69,12 @@
 
 ## Q&A
 
-#### 为什么要写这个专栏？
+#### 为什么要写这个博客？
 - 坚持，养成一个习惯
 - 练习逻辑思维
 - 练习表达
 - 记录
+- 分享
 - 终极目标：希望能够给他人带来一些价值
 
 #### 如何保持写下去的动力
