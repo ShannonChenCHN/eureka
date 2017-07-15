@@ -16,13 +16,15 @@
 
 
 ## 目录
+- [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
 - [一日三省吾身](https://github.com/ShannonChenCHN/eureka/issues/31)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
   - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/issues/58)
   - [聊来读书这件事](https://github.com/ShannonChenCHN/eureka/issues/19)
   - [上海这座城](https://github.com/ShannonChenCHN/eureka/issues/52)
-  - 我的那些朋友们
+  - [这些年，那些人](https://github.com/ShannonChenCHN/eureka/issues/62)
+  - [公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
 - 互联网
   - 技术
     - [iOS 开发之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
