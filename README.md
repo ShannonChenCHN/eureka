@@ -17,11 +17,11 @@
 
 ## 目录
 - [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
-- [一日三省吾身](https://github.com/ShannonChenCHN/eureka/issues/31)
+- [每天都要写两句](https://github.com/ShannonChenCHN/eureka/issues/31)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
   - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/issues/58)
-  - [聊来读书这件事](https://github.com/ShannonChenCHN/eureka/issues/19)
+  - [聊聊读书这件事](https://github.com/ShannonChenCHN/eureka/issues/19)
   - [上海这座城](https://github.com/ShannonChenCHN/eureka/issues/52)
   - [这些年，那些人](https://github.com/ShannonChenCHN/eureka/issues/62)
   - [公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
@@ -32,8 +32,10 @@
     - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md)
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
     - [Git 相关技术](https://github.com/ShannonChenCHN/eureka/issues/4)
+    - [招聘 iOS 开发技术人员时，如何筛选简历和一面？](https://github.com/ShannonChenCHN/eureka/issues/59)
+    - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
   - 产品
-    - 什么是 PM？
+    - PM 是干什么的？
   - 设计
     - UI、UX、UE、UED 之间的区别是什么？
   - 运营
