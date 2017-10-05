@@ -48,10 +48,12 @@
   - 学会沟通：如何成为一个更好的谈话者?
   - [2017 上半年总结](https://github.com/ShannonChenCHN/eureka/issues/56)
   - [我与篮球 🏀](https://github.com/ShannonChenCHN/eureka/issues/63)
+- [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
 - 阅读
   - 为什么读？
   - 读什么？
   - 怎么读？
+  - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
 - 写作
   - 我们为什么要写作？
   - 写什么
