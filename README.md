@@ -36,6 +36,7 @@
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
     - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
     - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
+    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/issues/9)
   - 产品
     - PM 是干什么的？
   - 设计
