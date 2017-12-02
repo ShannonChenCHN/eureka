@@ -36,7 +36,7 @@
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
     - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
     - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
-    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/issues/9)
+    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
   - 产品
     - PM 是干什么的？
   - 设计
@@ -50,6 +50,8 @@
   - [2017 上半年总结](https://github.com/ShannonChenCHN/eureka/issues/56)
   - [我与篮球 🏀](https://github.com/ShannonChenCHN/eureka/issues/63)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
+- [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
+  - [知乎 Live 笔记：如何从尬聊到亲密沟通？](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live：尬聊.md)
 - 阅读
   - 为什么读？
   - 读什么？
