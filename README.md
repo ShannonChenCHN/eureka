@@ -48,6 +48,7 @@
   - [社会主义核心恋爱观](https://github.com/ShannonChenCHN/eureka/issues/6)
   - 学会沟通：如何成为一个更好的谈话者?
   - [2017 上半年总结](https://github.com/ShannonChenCHN/eureka/issues/56)
+  - [回顾 2017，展望 2018（2017 年度总结） ](https://github.com/ShannonChenCHN/eureka/issues/84)
   - [我与篮球 🏀](https://github.com/ShannonChenCHN/eureka/issues/63)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
