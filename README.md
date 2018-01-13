@@ -37,6 +37,7 @@
     - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
     - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
     - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
+    - [知乎 Live - 打破焦虑，学会自己做职业规划](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live%20-%20打破焦虑，学会自己做职业规划.md)
   - 产品
     - PM 是干什么的？
   - 设计
