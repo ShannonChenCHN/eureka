@@ -19,6 +19,7 @@
 - [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
 - [每天都要写两句](https://github.com/ShannonChenCHN/eureka/issues/31)
 - [开发者札记](https://github.com/ShannonChenCHN/ReadingListWeekly)
+- [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
   - [虽然我不是个吃货](https://github.com/ShannonChenCHN/eureka/issues/58)
@@ -48,6 +49,7 @@
   - 运营
     - 运营是干什么的？
 - 生活
+  - [如何度过下班后的时间（晚上和周末）？](https://github.com/ShannonChenCHN/eureka/issues/90)
   - 聊聊实习这件事儿
   - [社会主义核心恋爱观](https://github.com/ShannonChenCHN/eureka/issues/6)
   - 学会沟通：如何成为一个更好的谈话者?
