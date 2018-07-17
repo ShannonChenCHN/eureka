@@ -59,6 +59,7 @@
   - [2018 年前四个月都干了啥？](https://github.com/ShannonChenCHN/eureka/issues/89)
   - [程序员的健康之路 ](https://github.com/ShannonChenCHN/eureka/issues/22)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
+- [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
   - [知乎 Live 笔记：如何从尬聊到亲密沟通？](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live：尬聊.md)
 - 阅读
