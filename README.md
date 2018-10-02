@@ -18,7 +18,7 @@
 ## 目录
 - [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
 - [每天都要写两句](https://github.com/ShannonChenCHN/eureka/issues/31)
-- [开发者札记](https://github.com/ShannonChenCHN/ReadingListWeekly)
+- [每周读点英文技术文章](https://github.com/ShannonChenCHN/eureka/issues/97)
 - [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - 合集
   - [HowTo 系列](https://github.com/ShannonChenCHN/HowTo)
