@@ -59,6 +59,7 @@
   - [2018 年前四个月都干了啥？](https://github.com/ShannonChenCHN/eureka/issues/89)
   - [程序员的健康之路 ](https://github.com/ShannonChenCHN/eureka/issues/22)
   - [2018 年上半年总结](https://github.com/ShannonChenCHN/eureka/issues/95)
+  - [2018 杭州·云栖大会](https://github.com/ShannonChenCHN/eureka/issues/86#issuecomment-426145886)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
