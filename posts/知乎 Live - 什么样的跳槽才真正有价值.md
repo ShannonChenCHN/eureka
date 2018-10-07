@@ -1,5 +1,6 @@
 # 知乎 Live - 什么样的跳槽才真正有价值
 
+live 地址：[https://www.zhihu.com/lives/824707691434881024](https://www.zhihu.com/lives/824707691434881024)
 
 ### 一、什么样的跳槽是合理的？HR 如何看简历的？
 

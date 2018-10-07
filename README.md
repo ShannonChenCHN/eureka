@@ -38,8 +38,10 @@
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
     - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
     - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
-    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
-    - [知乎 Live - 打破焦虑，学会自己做职业规划](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live%20-%20打破焦虑，学会自己做职业规划.md)
+    - [知乎 Live - 什么样的跳槽才真正有价值](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%B7%B3%E6%A7%BD%E6%89%8D%E7%9C%9F%E6%AD%A3%E6%9C%89%E4%BB%B7%E5%80%BC.md)
+    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
+    - [知乎 Live - 打破焦虑，学会自己做职业规划](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20打破焦虑，学会自己做职业规划.md)
+    - [知乎 Live - 如何从尬聊到亲密沟通](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%AC%E8%81%8A%E5%88%B0%E4%BA%B2%E5%AF%86%E6%B2%9F%E9%80%9A.md)
     - [个人博客和 Markdown](https://github.com/ShannonChenCHN/eureka/issues/87)
     - [如何应对程序崩溃问题，以及提高程序的可靠性？](https://github.com/ShannonChenCHN/eureka/issues/88)
   - 产品
@@ -63,7 +65,7 @@
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
-  - [知乎 Live 笔记：如何从尬聊到亲密沟通？](https://github.com/ShannonChenCHN/eureka/blob/master/src/知乎%20Live：尬聊.md)
+  - [知乎 Live 笔记：如何从尬聊到亲密沟通？](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live：尬聊.md)
 - 阅读
   - 为什么读？
   - 读什么？

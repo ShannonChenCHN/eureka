@@ -1,5 +1,7 @@
 # 知乎 Live - 程序员：如何在整个职业生涯中保持竞争力
 
+live 地址：[https://www.zhihu.com/lives/883736235577851904](https://www.zhihu.com/lives/883736235577851904)
+
 ### 一、IT 业界的历史与现状
 
 - IT 产业瞬息万变
