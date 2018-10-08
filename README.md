@@ -66,10 +66,11 @@
 - [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
   - [知乎 Live - 如何从尬聊到亲密沟通](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%AC%E8%81%8A%E5%88%B0%E4%BA%B2%E5%AF%86%E6%B2%9F%E9%80%9A.md)
-- 阅读
+- [阅读](https://github.com/ShannonChenCHN/eureka/issues/19)
   - 为什么读？
   - 读什么？
   - 怎么读？
+  - [速读法](https://github.com/ShannonChenCHN/eureka/issues/19#issuecomment-427539768)
   - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
 - 写作
   - 我们为什么要写作？
