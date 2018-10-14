@@ -72,7 +72,7 @@
   - 怎么读？
   - [速读法](https://github.com/ShannonChenCHN/eureka/issues/19#issuecomment-427539768)
   - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
-  - [读《把时间当做朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E5%81%9A%E6%9C%8B%E5%8F%8B%E3%80%8B)
+  - [读《把时间当做朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E5%81%9A%E6%9C%8B%E5%8F%8B%E3%80%8B.md)
 
 - 写作
   - 我们为什么要写作？
