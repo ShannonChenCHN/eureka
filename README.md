@@ -64,6 +64,7 @@
   - [2018 杭州·云栖大会](https://github.com/ShannonChenCHN/eureka/issues/86#issuecomment-426145886)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
+  - [读《小狗钱钱》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.md)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
   - [知乎 Live - 如何从尬聊到亲密沟通](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%AC%E8%81%8A%E5%88%B0%E4%BA%B2%E5%AF%86%E6%B2%9F%E9%80%9A.md)
 - [阅读](https://github.com/ShannonChenCHN/eureka/issues/19)
