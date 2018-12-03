@@ -34,6 +34,7 @@
     - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md)
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
     - [Git 相关技术](https://github.com/ShannonChenCHN/eureka/issues/4)
+    - [如何学习编程语言](https://github.com/ShannonChenCHN/eureka/blob/master/posts/how-to-learn-prog-lang.md)
     - [招聘 iOS 开发技术人员时，如何筛选简历和一面？](https://github.com/ShannonChenCHN/eureka/issues/59)
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
     - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
