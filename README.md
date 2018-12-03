@@ -117,7 +117,7 @@
 - 微博：[ShannonChenCHN](http://weibo.com/u/2034207895)
 - Twitter: [ShannonChenCHN](https://twitter.com/ShannonChenCHN)
 - 简书：[祥龙Shannon](http://www.jianshu.com/u/4ef5e287fc91)
-- 公众号：老干部专栏
+- 公众号：祥龙Shannon写字的地方
 
 
 ![](./src/qrcode_for_gh_cc686217be41_430.jpg)
