@@ -64,6 +64,8 @@
   - [2018 年上半年总结](https://github.com/ShannonChenCHN/eureka/issues/95)
   - [2018 杭州·云栖大会](https://github.com/ShannonChenCHN/eureka/issues/86#issuecomment-426145886)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
+  - [读《把时间当作朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B.md)
+  - [读《20 岁，光阴不再来》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A20%E5%B2%81%EF%BC%8C%E5%85%89%E9%98%B4%E4%B8%8D%E5%86%8D%E6%9D%A5%E3%80%8B.md)
 - [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
   - [读《小狗钱钱》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.md)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
@@ -74,7 +76,6 @@
   - 怎么读？
   - [速读法](https://github.com/ShannonChenCHN/eureka/issues/19#issuecomment-427539768)
   - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
-  - [读《把时间当作朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B.md)
 
 - 写作
   - 我们为什么要写作？
