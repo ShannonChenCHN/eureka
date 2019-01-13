@@ -63,6 +63,7 @@
   - [程序员的健康之路 ](https://github.com/ShannonChenCHN/eureka/issues/22)
   - [2018 年上半年总结](https://github.com/ShannonChenCHN/eureka/issues/95)
   - [2018 杭州·云栖大会](https://github.com/ShannonChenCHN/eureka/issues/86#issuecomment-426145886)
+  - [再见 2018，你好 2019（2018 年度总结）](https://github.com/ShannonChenCHN/eureka/issues/99)
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
   - [读《把时间当作朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B.md)
   - [读《20 岁，光阴不再来》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A20%E5%B2%81%EF%BC%8C%E5%85%89%E9%98%B4%E4%B8%8D%E5%86%8D%E6%9D%A5%E3%80%8B.md)
