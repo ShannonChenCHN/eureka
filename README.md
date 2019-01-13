@@ -17,6 +17,8 @@
 
 ## 目录
 - [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
+- [我的周报](https://github.com/ShannonChenCHN/iOSDevLevelingUp/issues/120)
+- [我的 iOS 开发进阶之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
 - [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [TED 公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
 - 互联网
@@ -25,28 +27,29 @@
     - [程序员找工作的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/16)
     - [[答朋友问] 我是 18 届毕业生，收到了 xxx 的 offer ，该不该马上签？](https://github.com/ShannonChenCHN/eureka/issues/73)
     - [如何做管理？如何带团队？如何做一个合格的优秀的 leader？](https://github.com/ShannonChenCHN/eureka/issues/40)
-  - 技术
-    - [iOS 开发之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
+    - [招聘 iOS 开发技术人员时，如何筛选简历和一面？](https://github.com/ShannonChenCHN/eureka/issues/59)
+    - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
+    - [知乎 Live - 什么样的跳槽才真正有价值](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%B7%B3%E6%A7%BD%E6%89%8D%E7%9C%9F%E6%AD%A3%E6%9C%89%E4%BB%B7%E5%80%BC.md)
+    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
+    - [知乎 Live - 打破焦虑，学会自己做职业规划](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20打破焦虑，学会自己做职业规划.md)
+  - 技术成长
+    - [如何学习编程语言](https://github.com/ShannonChenCHN/eureka/blob/master/posts/how-to-learn-prog-lang.md)
+    - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
+    - [知乎 Live - 如何自学计算机专业课程](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B.md)
+  - 技术实践
     - [前端开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
     - [React Native 开发之旅](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/React-Native/README.md)
     - [Swift 学习笔记](https://github.com/ShannonChenCHN/ASwiftTour)
     - [Git 相关技术](https://github.com/ShannonChenCHN/eureka/issues/4)
-    - [如何学习编程语言](https://github.com/ShannonChenCHN/eureka/blob/master/posts/how-to-learn-prog-lang.md)
-    - [招聘 iOS 开发技术人员时，如何筛选简历和一面？](https://github.com/ShannonChenCHN/eureka/issues/59)
-    - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
-    - [给想转行当程序员的朋友的一些建议](https://github.com/ShannonChenCHN/eureka/issues/44)
-    - [知乎 Live 笔记 - 三年从前端小工到架构](https://github.com/ShannonChenCHN/eureka/issues/9)
-    - [知乎 Live - 什么样的跳槽才真正有价值](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%B7%B3%E6%A7%BD%E6%89%8D%E7%9C%9F%E6%AD%A3%E6%9C%89%E4%BB%B7%E5%80%BC.md)
-    - [知乎 Live 笔记 - 程序员：如何在整个职业生涯中保持竞争力](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20程序员：如何在整个职业生涯中保持竞争力.md)
-    - [知乎 Live - 打破焦虑，学会自己做职业规划](https://github.com/ShannonChenCHN/eureka/blob/master/posts/知乎%20Live%20-%20打破焦虑，学会自己做职业规划.md)
-    - [知乎 Live - 如何自学计算机专业课程](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B.md)
-    - [个人博客和 Markdown](https://github.com/ShannonChenCHN/eureka/issues/87)
     - [如何应对程序崩溃问题，以及提高程序的可靠性？](https://github.com/ShannonChenCHN/eureka/issues/88)
+    - [读源码的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/10)
+    - [使用 GitHub 的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/4)
+  - 其他
+    - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
+    - [个人博客和 Markdown](https://github.com/ShannonChenCHN/eureka/issues/87)
     - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
     - [[答朋友问] 从开发人员的角度看，好的需求文档应该是什么样的？](https://github.com/ShannonChenCHN/eureka/issues/75)
     - [关于开源](https://github.com/ShannonChenCHN/eureka/issues/69)
-    - [读源码的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/10)
-    - [使用 GitHub 的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/4)
   - 产品
   - 设计
   - 运营
@@ -54,10 +57,8 @@
 - 生活
   - [下班后的时间（晚上和周末）应该怎么过？](https://github.com/ShannonChenCHN/eureka/issues/90)
   - [社会主义核心恋爱观](https://github.com/ShannonChenCHN/eureka/issues/6)
-  - 学会沟通：如何成为一个更好的谈话者?
   - [2017 上半年总结](https://github.com/ShannonChenCHN/eureka/issues/56)
   - [回顾 2017，展望 2018（2017 年度总结） ](https://github.com/ShannonChenCHN/eureka/issues/84)
-  - [我与篮球 🏀](https://github.com/ShannonChenCHN/eureka/issues/63)
   - [2018 年前四个月都干了啥？](https://github.com/ShannonChenCHN/eureka/issues/89)
   - [程序员的健康之路 ](https://github.com/ShannonChenCHN/eureka/issues/22)
   - [2018 年上半年总结](https://github.com/ShannonChenCHN/eureka/issues/95)
