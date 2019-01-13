@@ -81,7 +81,9 @@
   - [\[译\]JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)
 
 
---------------------------------
+## Contact Me
+
+Email: shannonchenchn@foxmail.com
 
 如果你需要在第一时间看到最新的文章，欢迎我的订阅公众号：祥龙Shannon写字的地方
 
