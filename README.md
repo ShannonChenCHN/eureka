@@ -21,11 +21,11 @@
 - [我的原则](https://github.com/ShannonChenCHN/eureka/issues/101)（读《原则》后的实践）
 - [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [TED 公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
-- [我的 iOS 开发进阶之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
-- [理财、投资](https://github.com/ShannonChenCHN/Money)
-- [英语](https://github.com/ShannonChenCHN/ESL)
+- [我的 iOS 开发进阶之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)⭐️
+- [理财、投资](https://github.com/ShannonChenCHN/Money)⭐️⭐️
+- [英语](https://github.com/ShannonChenCHN/ESL)⭐️⭐️
 - [人际关系](https://github.com/ShannonChenCHN/Relationship)
-- [产品/设计/运营](https://github.com/ShannonChenCHN/eureka/issues/104)
+- [产品/设计/运营](https://github.com/ShannonChenCHN/eureka/issues/104)⭐️
 - 互联网
   - 职场
     - [职业规划](https://github.com/ShannonChenCHN/eureka/issues/85)
