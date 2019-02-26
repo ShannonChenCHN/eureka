@@ -22,6 +22,9 @@
 - [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [TED 公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
 - [我的 iOS 开发进阶之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)
+- [理财、投资](https://github.com/ShannonChenCHN/Money)
+- [英语](https://github.com/ShannonChenCHN/ESL)
+- [人际关系](https://github.com/ShannonChenCHN/Relationship)
 - 互联网
   - 职场
     - [职业规划](https://github.com/ShannonChenCHN/eureka/issues/85)
@@ -69,7 +72,6 @@
 - [个人成长](https://github.com/ShannonChenCHN/eureka/issues/12)
   - [读《把时间当作朋友》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E3%80%8B.md)
   - [读《20 岁，光阴不再来》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A20%E5%B2%81%EF%BC%8C%E5%85%89%E9%98%B4%E4%B8%8D%E5%86%8D%E6%9D%A5%E3%80%8B.md)
-- [理财、投资](https://github.com/ShannonChenCHN/eureka/issues/95)
   - [读《小狗钱钱》](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E8%AF%BB%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B.md)
 - [程序员（工科男）的情商课](https://github.com/ShannonChenCHN/eureka/issues/71)
   - [知乎 Live - 如何从尬聊到亲密沟通](https://github.com/ShannonChenCHN/eureka/blob/master/posts/%E7%9F%A5%E4%B9%8E%20Live%20-%20%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%AC%E8%81%8A%E5%88%B0%E4%BA%B2%E5%AF%86%E6%B2%9F%E9%80%9A.md)
@@ -77,7 +79,6 @@
   - [速读法](https://github.com/ShannonChenCHN/eureka/issues/19#issuecomment-427539768)
   - [阅读技术 文章/书籍 的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/11)
 - [关于写作](https://github.com/ShannonChenCHN/eureka/issues/13)
-- [英语学习](https://github.com/ShannonChenCHN/eureka/issues/14)
 - 翻译
   - [\[译\]JavaScript 开发者最常见的 10 个错误](https://github.com/ShannonChenCHN/eureka/issues/54)
 
