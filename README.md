@@ -25,6 +25,7 @@
 - [理财、投资](https://github.com/ShannonChenCHN/Money)
 - [英语](https://github.com/ShannonChenCHN/ESL)
 - [人际关系](https://github.com/ShannonChenCHN/Relationship)
+- [产品/设计/运营](https://github.com/ShannonChenCHN/eureka/issues/104)
 - 互联网
   - 职场
     - [职业规划](https://github.com/ShannonChenCHN/eureka/issues/85)
@@ -54,10 +55,6 @@
     - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
     - [[答朋友问] 从开发人员的角度看，好的需求文档应该是什么样的？](https://github.com/ShannonChenCHN/eureka/issues/75)
     - [关于开源](https://github.com/ShannonChenCHN/eureka/issues/69)
-  - 产品
-  - 设计
-  - 运营
-  - 商业
 - 生活
   - [下班后的时间（晚上和周末）应该怎么过？](https://github.com/ShannonChenCHN/eureka/issues/90)
   - [社会主义核心恋爱观](https://github.com/ShannonChenCHN/eureka/issues/6)
