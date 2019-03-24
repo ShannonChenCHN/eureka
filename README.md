@@ -84,6 +84,3 @@
 
 Email: shannonchenchn@foxmail.com
 
-如果您想要在第一时间看到最新的文章，欢迎订阅我的公众号：祥龙Shannon写字的地方
-
-![](./src/qrcode_for_gh_cc686217be41_430.jpg)
