@@ -50,6 +50,7 @@
     - [读源码的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/10)
     - [使用 GitHub 的正确姿势](https://github.com/ShannonChenCHN/eureka/issues/4)
   - 其他
+    - [苹果设备的性能检测和保养](https://github.com/ShannonChenCHN/eureka/issues/106)
     - [什么， GitHub Issues 还可以用来记笔记、写博客！？](https://github.com/ShannonChenCHN/eureka/issues/60)
     - [个人博客和 Markdown](https://github.com/ShannonChenCHN/eureka/issues/87)
     - [读《淘宝技术这十年》](https://github.com/ShannonChenCHN/eureka/issues/79)
