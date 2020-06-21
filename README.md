@@ -23,7 +23,7 @@
 - [TED 公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
 - [我的 iOS 开发进阶之旅](https://github.com/ShannonChenCHN/iOSLevelingUp)⭐️
 - [理财、投资](https://github.com/ShannonChenCHN/Money)⭐️⭐️
-- [英语](https://github.com/ShannonChenCHN/ESL)⭐️⭐️
+- [我的英语学习之旅](https://github.com/ShannonChenCHN/ESL)⭐️⭐️
 - [人际关系](https://github.com/ShannonChenCHN/Relationship)
 - [产品/设计/运营](https://github.com/ShannonChenCHN/eureka/issues/104)⭐️
 - 互联网
