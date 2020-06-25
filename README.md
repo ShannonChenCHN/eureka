@@ -16,8 +16,8 @@
 
 
 ## 目录
-- [我的简书](http://www.jianshu.com/u/4ef5e287fc91)
-- [我的周报](https://github.com/ShannonChenCHN/iOSDevLevelingUp/issues/120)
+- [掘金](https://juejin.im/user/5788b6eb79bc44005fc91d32/posts)、[简书](http://www.jianshu.com/u/4ef5e287fc91)
+- [我的周报](https://github.com/ShannonChenCHN/iOSDevLevelingUp/issues/120)（已停止更新）
 - [我的原则](https://github.com/ShannonChenCHN/eureka/issues/101)（读《原则》后的实践）
 - [精进](https://github.com/ShannonChenCHN/eureka/issues/12)
 - [TED 公开课](https://github.com/ShannonChenCHN/eureka/issues/43)
